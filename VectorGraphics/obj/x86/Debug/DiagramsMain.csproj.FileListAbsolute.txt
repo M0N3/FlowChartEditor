@@ -1,0 +1,60 @@
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\DiagramsMain.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\DiagramsMain.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\bin\Debug\VectorGraphics.exe
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\bin\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\bin\Debug\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\bin\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\obj\x86\Debug\DiagramsMain.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\VectorGraphics\obj\x86\Debug\DiagramsMain.csproj.GenerateResource.Cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\bin\Debug\VectorGraphics.exe
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\bin\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\bin\Debug\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\bin\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\obj\x86\Debug\DiagramsMain.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\VectorGraphics\obj\x86\Debug\DiagramsMain.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\DiagramsMain.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\DiagramsMain.csproj.GenerateResource.Cache
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\DiagramsMain.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\GroupD_Project laststand\VectorGraphics\obj\x86\Debug\DiagramsMain.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\obj\x86\Debug\DiagramsMain.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\VectorGraphics\obj\x86\Debug\DiagramsMain.csproj.GenerateResource.Cache

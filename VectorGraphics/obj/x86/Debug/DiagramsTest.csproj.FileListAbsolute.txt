@@ -1,0 +1,83 @@
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\bin\Debug\VectorGraphics.exe
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\bin\Debug\VectorGraphics.pdb
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\bin\Debug\Diagrams.dll
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\bin\Debug\Diagrams.pdb
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\bin\Debug\VectorGraphics.exe
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\bin\Debug\VectorGraphics.pdb
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\bin\Debug\Diagrams.dll
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\bin\Debug\Diagrams.pdb
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+C:\Projects_CSharp\VectorGraphics\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache
+C:\Projects_CSharp\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+C:\Projects_CSharp\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Projects_CSharp\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.exe
+C:\Projects_CSharp\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.pdb
+C:\Projects_CSharp\Diagrams\VectorGraphics\bin\Debug\Diagrams.dll
+C:\Projects_CSharp\Diagrams\VectorGraphics\bin\Debug\Diagrams.pdb
+C:\Projects_CSharp\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+C:\Projects_CSharp\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+C:\Projects_CSharp\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+C:\Projects_CSharp\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache
+D:\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.exe
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.pdb
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\Diagrams.dll
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\bin\Debug\Diagrams.pdb
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.exe
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.pdb
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\bin\Debug\Diagrams.dll
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\bin\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\VectorGraphics.exe
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\VectorGraphics.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\DiagramsTest.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\Diagrams.Form1.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\Diagrams.Properties.Resources.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\VectorGraphics\obj\x86\Debug\DiagramsTest.csproj.GenerateResource.Cache

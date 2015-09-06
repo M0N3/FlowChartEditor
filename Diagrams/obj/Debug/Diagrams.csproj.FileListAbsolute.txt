@@ -1,0 +1,86 @@
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\bin\Debug\Diagrams.dll
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\bin\Debug\Diagrams.pdb
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\obj\Debug\Diagrams.dll
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\obj\Debug\Diagrams.pdb
+E:\Users\Pasha\documents\visual studio 2010\Projects\VectorGraphics\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+C:\Projects_CSharp\VectorGraphics\Diagrams\bin\Debug\Diagrams.dll
+C:\Projects_CSharp\VectorGraphics\Diagrams\bin\Debug\Diagrams.pdb
+C:\Projects_CSharp\VectorGraphics\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+C:\Projects_CSharp\VectorGraphics\Diagrams\obj\Debug\Diagrams.dll
+C:\Projects_CSharp\VectorGraphics\Diagrams\obj\Debug\Diagrams.pdb
+C:\Projects_CSharp\VectorGraphics\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+C:\Projects_CSharp\VectorGraphics\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+C:\Projects_CSharp\Diagrams\Diagrams\bin\Debug\Diagrams.dll
+C:\Projects_CSharp\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+C:\Projects_CSharp\Diagrams\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+C:\Projects_CSharp\Diagrams\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+C:\Projects_CSharp\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+C:\Projects_CSharp\Diagrams\Diagrams\obj\Debug\Diagrams.dll
+C:\Projects_CSharp\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\bin\Debug\Diagrams.dll
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.dll
+G:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\bin\Debug\Diagrams.dll
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.dll
+C:\Users\lutick\Documents\backup\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\FlowChart_Editor\MiddleLine\Diagrams2\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\obj\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project\Diagrams\obj\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\bin\Debug\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\bin\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Debug\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Debug\Diagrams.UserControl1.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\obj\Debug\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\bin\Debug\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\bin\Debug\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project - Copy\Diagrams\obj\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\obj\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand\Diagrams\obj\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\bin\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\bin\Debug\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Debug\Diagrams.DiagramBox.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Debug\Diagrams.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Debug\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Debug\Diagrams.pdb

@@ -1,0 +1,15 @@
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Release\Diagrams.csprojResolveAssemblyReference.cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Release\Diagrams.DiagramBox.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Release\Diagrams.UserControl1.resources
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Release\Diagrams.csproj.GenerateResource.Cache
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\bin\Release\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\bin\Release\Diagrams.pdb
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Release\Diagrams.dll
+C:\Users\lutick\Documents\Visual Studio 2012\GroupD_Project\GroupD_Project\Diagrams\obj\Release\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\bin\Release\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\bin\Release\Diagrams.pdb
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Release\Diagrams.csprojResolveAssemblyReference.cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Release\Diagrams.DiagramBox.resources
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Release\Diagrams.csproj.GenerateResource.Cache
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Release\Diagrams.dll
+D:\A_FLESHKA\lab_files_second_semestr\GroupD_Project laststand forever\Diagrams\obj\Release\Diagrams.pdb
